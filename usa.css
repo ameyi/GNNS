@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#home{
+    background-color: red;
+    width: 10%;
+    height: 20%;
+}
+#northamerica{
+    background-color: teal;
+    width: 10%;
+    height: 20%;
+}
